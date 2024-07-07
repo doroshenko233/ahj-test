@@ -1,0 +1,20 @@
+mir-min.png
+  source: https://icons8.ru/icon/59239/%D0%BC%D0%B8%D1%80
+
+diners-club-min.png
+  source: https://icons8.ru/icons/set/diners-club-international
+
+discover-min.png
+  source: https://icons8.com/icon/20798/discover-card
+
+visa-min.png
+  source: https://icons8.ru/icons/set/visa
+
+american-express-min.png
+  source: https://icons8.com/icon/set/american-express-card/color
+
+jcb-min.png
+  source: https://icons8.ru/icons/set/jcb
+
+mastercard-min.png
+  source: https://icons8.ru/icons/set/mastercard
