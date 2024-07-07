@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import MessageContainer from "./MessageContainer";
 import { validateCardNumber, checkPayment } from "./validateCardNumber";
 
@@ -44,7 +43,6 @@ export default class Validator {
       this.modalMessage.showMessage("is not Valid");
     }
     this.inputEl.value = "";
-  
   }
 
   onInput(event) {

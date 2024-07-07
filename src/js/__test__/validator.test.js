@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import { validateCardNumber, checkPayment } from "../validateCardNumber";
 
 test.each([

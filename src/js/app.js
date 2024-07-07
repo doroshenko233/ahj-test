@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import Validator from "./Validator";
 
 const container = document.querySelector(".validate-card-widjet");

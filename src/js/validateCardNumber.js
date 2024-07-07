@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import verify from "../json/verificationPayments.json";
 
 export function validateCardNumber(cardNumber) {
